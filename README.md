@@ -3,12 +3,6 @@
   <h3>System Architect | Python & C++ | Human-Centric AGI Development</h3>
   
   <img src="https://komarev.com/ghpvc/?username=ayandev7&label=Visitors&color=487693&style=flat" alt="ayandev7" />
-
-  <p>
-    <a href="https://linkedin.com/in/ayan-r" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-r" height="30" width="40" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -42,6 +36,5 @@
 
 ---
 
-<p align="center">
-  <i>"The best 'System Architect' is the human who knows when to say 'No' to the machine. Inspired by the Petrov Protocol."</i>
-</p>
+> "The best 'System Architect' is the human who knows when to say 'No' to the machine."  
+> — **The Petrov Protocol**
